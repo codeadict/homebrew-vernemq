@@ -18,7 +18,7 @@ To start `vernemq`:
 
 To configure `vernemq`, modify the configuration file at:
 
-    /usr/local/Cellar/vernemq/1.0.0/libexec/data/vernemq.conf
+    /usr/local/Cellar/vernemq/1.0.0/libexec/etc/vernemq.conf
 
     
 ## Issues?
