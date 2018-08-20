@@ -11,6 +11,15 @@ Add this tap to homebrew:
 Once the tap is installed, you can install `vernemq` with:
 
     brew install vernemq
+
+To start `vernemq`:
+
+    vernemq start
+
+To configure `vernemq`, modify the configuration file at:
+
+    /usr/local/Cellar/vernemq/1.0.0/libexec/etc/vernemq.conf
+
     
 ## Issues?
 
